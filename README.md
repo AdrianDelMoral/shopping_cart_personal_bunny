@@ -6,4 +6,4 @@ Personal project about a pet products store, more specifically about rabbits. It
 
 Preview About The Project:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](![Vite-React](https://github.com/AdrianDelMoral/shopping_cart_personal_bunny/assets/60920185/d557e8c9-3359-4d8c-a388-b0d408f51a24))
